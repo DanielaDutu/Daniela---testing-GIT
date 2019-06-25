@@ -1,0 +1,16 @@
+[
+    {
+        "Editable": true,
+        "ID": "5d12093ff2b0c",
+        "Name": "DD017 - GIT test1",
+        "Type": "PRINTABLE",
+        "LIM_id": "83ef69d1-2c5e-11e5-ad20-22000a7a05f5",
+        "LIM_name": "Portsmouth",
+        "Category": "Test",
+        "data_type": "integration-lookup",
+        "allow_offline": 0,
+        "Output_template": "{\"name\":\"{reference}\",\"remove_margins\":\"\",\"setPaperType\":\"a4\",\"content\":\"<p>This is the first version of the  pdf</p>\"}",
+        "log_only_on_error": 0,
+        "error_notification": "{\"LIM_id\":\"3f07ecf4-0dfa-11e2-b0b9-12313b03ed59\",\"LIM_name\":\"LIM14\",\"recipients_to\":\"Daniela.Dutu@portsmouthcc.gov.uk\"}"
+    }
+]
